@@ -1,6 +1,6 @@
 package com.streampractical.player;
 
-public class Player {
+public class Player implements Comparable<Player>{
 
   public String playerName;
   public int jerseyNumber;
@@ -62,4 +62,10 @@ public class Player {
   }
 
 
+  @Override
+  public int compareTo(Player o) {
+   teamName.compareTo(teamName);
+
+    return 0;
+  }
 }

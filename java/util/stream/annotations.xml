@@ -1,0 +1,8 @@
+<root>
+    <item name='java.util.stream.Collectors java.util.stream.Collector&lt;java.lang.CharSequence,?,java.lang.String&gt; joining(java.lang.CharSequence)'>
+        <annotation name='org.jetbrains.annotations.Contract'>
+            <val name="value" val="&quot;_-&gt;new&quot;"/>
+            <val name="pure" val="true"/>
+        </annotation>
+    </item>
+</root>
